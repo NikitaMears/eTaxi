@@ -1,4 +1,4 @@
-# Privacy Policy for eTaxi Passenger
+# Privacy Policy for eTaxi Passenger and Driver
 
 Effective Date: August 5, 2023
 
