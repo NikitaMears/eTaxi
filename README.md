@@ -10,7 +10,7 @@ Thank you for choosing eTaxi Passenger ("we," "our," or "us"). This Privacy Poli
 
 - Contact Information: Name, email address, phone number, postal address.
 - Account Information: Username, password, profile picture.
-- Location Information: GPS data, device location, IP address, and other location-related information.
+- Location Information: GPS data, device location both in background and forground-
 - Trip Information: Details of trips taken, pick-up, and drop-off locations, trip duration, fare details, and ratings/reviews.
 
 ### 1.2. Non-Personal Information:
