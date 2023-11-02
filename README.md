@@ -1,8 +1,8 @@
-# Privacy Policy for eTaxi Passenger and Driver
+# Privacy Policy for Afro Taxi Passenger and Driver
 
-Effective Date: August 5, 2023
+Effective Date: Starting From August 5, 2023
 
-Thank you for choosing eTaxi Passenger ("we," "our," or "us"). This Privacy Policy outlines how we collect, use, share, and protect your personal information when you use our app and related services. By accessing or using our app, you consent to the practices described in this Privacy Policy. Please take a moment to review this policy carefully.
+Thank you for choosing Afro Taxi. This Privacy Policy outlines how we collect, use, share, and protect your personal information when you use our app and related services. By accessing or using our app, you consent to the practices described in this Privacy Policy. Please take a moment to review this policy carefully.
 
 ## 1. Information We Collect
 
